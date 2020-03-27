@@ -1,4 +1,4 @@
-<p align="center"><img src="https://brokoli.ml/images/logo.png"></p>
+![logo](./public/images/logo.png)
 
 ## About brokolidev
 
